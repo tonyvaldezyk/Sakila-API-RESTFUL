@@ -123,7 +123,7 @@ Password: admin123
 - Erreurs JWT : Regénérez le secret dans `.env`
 - Problèmes de build : `rm -rf node_modules/ && npm install`
 
-## 🧪 Tests pour l'enseignant
+## 🧪 Indications de Tests
 
 ### Authentification
 
