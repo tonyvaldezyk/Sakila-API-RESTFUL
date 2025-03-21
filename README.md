@@ -5,7 +5,7 @@ L'API Sakila est une interface RESTful permettant d'accéder et de gérer les do
 
 ## 📥 Téléchargement depuis GitLab
 ```bash
-git clone https://gitlab.com/votre-repo/sakila-api.git
+git clone https://gitlab.com/tonyvaldezyk/sakila-api-restful.git
 cd sakila-api
 ```
 
@@ -327,3 +327,6 @@ query GetFilmById($filmId: ID!) {
 | customer | customer@mail.com | customer123 | customer |
 
 Ces utilisateurs sont automatiquement créés lors de l'initialisation de la base de données.
+
+## Crédits: Développé par Tony Yonke sous licence MIT. 2025
+
